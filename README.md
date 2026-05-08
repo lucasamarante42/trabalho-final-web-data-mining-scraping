@@ -1,5 +1,3 @@
-# README.md
-
 # MBA - Web Data Mining and Scraping
 
 Projeto desenvolvido para a disciplina **Web Data Mining and Scraping** do MBA em Engenharia de Dados.
@@ -118,13 +116,8 @@ https://aistudio.google.com/app/apikey
 O projeto gera automaticamente:
 
 * roteiro.txt
-* audio.mp3
-* audio.wav
+* audio_resumo_shorts.mp3
 
 e envia o resultado diretamente para o Telegram.
 
 ---
-
-# Autor
-
-Projeto desenvolvido para fins acadêmicos no MBA de Engenharia de Dados.
