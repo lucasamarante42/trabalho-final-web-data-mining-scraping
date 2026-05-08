@@ -71,7 +71,7 @@ Envio para Telegram
 ├── images/
 │   └── bot-telegram-print-1.jpeg
 │   └── bot-telegram-print-2.jpeg
-|
+│
 └── README.md
 ```
 
