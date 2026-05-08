@@ -119,5 +119,3 @@ O projeto gera automaticamente:
 * audio_resumo_shorts.mp3
 
 e envia o resultado diretamente para o Telegram.
-
----
